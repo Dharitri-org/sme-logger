@@ -4,8 +4,8 @@ import (
 	"errors"
 	"testing"
 
+	"github.com/Dharitri-org/sme-core/core/check"
 	logger "github.com/Dharitri-org/sme-logger"
-	"github.com/Dharitri-org/sme-logger/check"
 	"github.com/Dharitri-org/sme-logger/mock"
 	"github.com/stretchr/testify/assert"
 )

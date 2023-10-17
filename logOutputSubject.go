@@ -5,7 +5,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/Dharitri-org/sme-logger/check"
+	"github.com/Dharitri-org/sme-core/core/check"
 )
 
 var _ LogOutputHandler = (*logOutputSubject)(nil)

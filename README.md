@@ -1,4 +1,4 @@
-# dharitri-go-logger
+# sme-logger
 Dharitri's logger subsystem written in go
 
 ## CLI options
