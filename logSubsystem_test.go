@@ -3,7 +3,7 @@ package logger_test
 import (
 	"testing"
 
-	logger "github.com/Dharitri-org/sme-logger"
+	"github.com/Dharitri-org/sme-logger"
 	"github.com/stretchr/testify/assert"
 )
 
